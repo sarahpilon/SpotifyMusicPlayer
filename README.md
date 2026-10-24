@@ -5,7 +5,7 @@ This project is a small desktop widget that shows the album cover, song title, a
 
 **Link to project:** https://github.com/sarahpilon/SpotifyMusicPlayer
 
-![Spotify mini player draft](screenshots/FinalDraft.png)
+![Spotify mini player draft](screenshots/FinalDraft.png)<br>
 *Final draft of the music player when project is used*
 
 
@@ -17,8 +17,10 @@ This project is a small desktop widget that shows the album cover, song title, a
 While talking to my friend, they shared how they had issues with the UI of the spotify GUI, and wanted access to control their music while doing hw and didn't want to open the app everytime. They also shared they had issues with the looks of the GUI, and wanted it to match their theme.
 
 Knowing this, I decided to draft up a design they approved of, and make a mini player that sits on top of other windows and is easily moveable. 
-![Spotify mini player draft](screenshots/template.png)
-*Above is the inital draft of the music player before figuring out a color theme*
+
+
+![Spotify mini player draft](screenshots/template.png)<br>
+*Above is the initial draft of the music player before figuring out a color theme*
 
 ## How to Run:
  
