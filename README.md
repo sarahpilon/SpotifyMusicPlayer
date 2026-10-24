@@ -1,9 +1,14 @@
 # Spotify Song Displayer
 This project is a small desktop widget that shows the album cover, song title, artist and progress of the song youre listening to on spotiffy. The widget also allows for a play/pause button, skip, back/restart, and volume button too to allow for easy music control without having to open the app.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**This project was made BEFORE the Spotify API changes March 2026. This is an old personal project from 2025 that has not been updated since. It has only recently been pushed to a public repo.***
 
-![alt tag](http://placecorgi.com/1200/650)
+**Link to project:** https://github.com/sarahpilon/SpotifyMusicPlayer
+
+![Spotify mini player draft](screenshots/FinalDraft.png)
+*Final draft of the music player when project is used*
+
+
 
 ## How It's Made:
 
@@ -12,6 +17,8 @@ This project is a small desktop widget that shows the album cover, song title, a
 While talking to my friend, they shared how they had issues with the UI of the spotify GUI, and wanted access to control their music while doing hw and didn't want to open the app everytime. They also shared they had issues with the looks of the GUI, and wanted it to match their theme.
 
 Knowing this, I decided to draft up a design they approved of, and make a mini player that sits on top of other windows and is easily moveable. 
+![Spotify mini player draft](screenshots/template.png)
+*Above is the inital draft of the music player before figuring out a color theme*
 
 ## How to Run:
  
@@ -38,6 +45,6 @@ Your login is saved in a `.cache` file, which is listed in `.gitignore` so your 
 
 - **Dynamic text sizing:** Song titles and artist names sometimes end up being too long for the widget, so the font starts at its default size and shrinks when the text ends up overflowing. If it still doesn't fit at the minimum size, it's truncated with an ellipsis.
 
--**Multi-use button:** The back button restarts the song, while also allowing you to go back a song depending on the position of the current song you are in is at. 
+- **Multi-use button:** The back button restarts the song, while also allowing you to go back a song depending on the position of the current song you are in is at. 
 
 
