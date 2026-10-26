@@ -1,7 +1,9 @@
+> [!WARNING]
+> **This project was made BEFORE the Spotify API changes March 2026. This is an old personal project from 2025 that has not been updated since. It has only recently been pushed to a public repo.**
+
+
 # Spotify Song Displayer
 This project is a small desktop widget that shows the album cover, song title, artist and progress of the song youre listening to on spotiffy. The widget also allows for a play/pause button, skip, back/restart, and volume button too to allow for easy music control without having to open the app.
-
-**This project was made BEFORE the Spotify API changes March 2026. This is an old personal project from 2025 that has not been updated since. It has only recently been pushed to a public repo.***
 
 **Link to project:** https://github.com/sarahpilon/SpotifyMusicPlayer
 
